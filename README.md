@@ -1,3 +1,7 @@
+A code sample I did for a job interview. Represents a store and a cart using a
+local file as a database. Realistically, a cute example of creating a user 
+friendly CLI for interacting with, e.g., configuration files.
+
 ## Installation
 
 I recommend using virtualenv for the CLI
